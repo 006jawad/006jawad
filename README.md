@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 My name is Md Tasnim Jawad. Welcome to my profile.........(under construction)
-<img src="https://user-images.githubusercontent.com/92658041/144735334-5a4b4e72-3529-4b8c-915c-39226a35f1a3.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/92658041/144735334-5a4b4e72-3529-4b8c-915c-39226a35f1a3.jpg" width="600" height="100">
