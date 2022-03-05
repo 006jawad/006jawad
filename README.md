@@ -32,7 +32,10 @@ My name is Md Tasnim Jawad. Welcome to my GitHub profile.
 #### Khulna University of Engineering and Technology
 #### B.SC. in Department of Electrical and Electronic Engineering ( 2017-currently undertaking )
 
+## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
+[Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)
+[DeepLearning.AI TensorFlow Developer](https://coursera.org/share/032440a89d0a56813a7e3af3d3d98afc)
 
 ## Research Highlights:
 ## COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing
@@ -47,5 +50,4 @@ Missing values are imputed employing various approaches, and then several featur
 
 
 
-## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
