@@ -32,5 +32,5 @@ My name is Md Tasnim Jawad. Welcome to my GitHub profile.
 #### Department of Electrical and Electronic Engineering ( 2017-currently undertaking )
 
 
-## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ)
+## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) . [ResearchGate](https://www.researchgate.net/profile/Jawad-Md-2)
 
