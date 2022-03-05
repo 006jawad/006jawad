@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 
 
 My name is Md Tasnim Jawad. Welcome to my GitHub profile.
-
+## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
 ## Education:
-## Institution and department
+
 #### Khulna University of Engineering and Technology
 #### B.SC. in Department of Electrical and Electronic Engineering ( 2017-currently undertaking )
 
-## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
 
 [Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)
