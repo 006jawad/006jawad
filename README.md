@@ -31,3 +31,6 @@ My name is Md Tasnim Jawad. Welcome to my GitHub profile.
 #### Khulna University of Engineering and Technology
 #### Department of Electrical and Electronic Engineering ( 2017-currently undertaking )
 
+
+## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ)
+
