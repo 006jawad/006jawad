@@ -1,4 +1,3 @@
-## Hello......
 
 <!--
 **006jawad/006jawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also love music and I can play the guitar.
 -->
 
-
-# Md Tasnim Jawad
-
-
-My name is Md Tasnim Jawad. Welcome to my GitHub profile.
+# Hello everyone, :wave:
+My name is Md Tasnim Jawad. I am an undergraduate student from Bangladesh finishing my final year at Khulna University of Engineering and Technology. I am also an up-and-coming deep learning researcher. So far I have worked mostly on medical images. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks. I have an obsession with AI and it drives me to learn more every day. I am a fast learner.  
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
 ## Education:
