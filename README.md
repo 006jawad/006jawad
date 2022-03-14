@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 My name is Md Tasnim Jawad. I am an undergraduate student from Bangladesh finishing my final year at Khulna University of Engineering and Technology. I am also an up-and-coming deep learning researcher. So far I have worked mostly on medical images. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks. I have an obsession with AI and it drives me to learn more every day. I am a fast learner.  
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
+# My Work Experience:
+My Work Experience:
+Various online courses were my first introduction to Deep Learning. I have been learning and practicing new skills to combat various challenges. Various blogs and online platforms like Kaggle have also been useful in learning the basics. In my University, apart from being an undergrad, I have been working as a Research Assistant under the supervision of [Kamrul Hasan](https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en) for more than a year. A part of one of my incompleted project is highlighted below.
+
+
 ## Education:
 
 #### Khulna University of Engineering and Technology
