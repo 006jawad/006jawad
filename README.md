@@ -40,9 +40,9 @@ Various online courses were my first introduction to Deep Learning. I have been 
 [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/032440a89d0a56813a7e3af3d3d98afc)
 
 ## Research Highlights:
-## COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing
+<!-- ## COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing
 This article aims to evaluate the proposed 3D-CNN classifier’s performance for identifying COVID-19 utilizing volumetric chest images, where the volumes have come from the same source. The recommended integral preprocessing in the proposed framework consists of segmentation, augmentations (both geometry- and intensity-based), and class rebalancing.  The experimental analysis confirms that the CNN classifier’s training with the suitable smaller patches and progressively increasing the network size enhance the identification results. Furthermore, incorporating the lung segmentation empowers the classifier to learn salient and characteristic COVID-19 features rather than utilizing whole chest CT images, driving improved COVID-19 classification performance.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100191X)
-
+ -->
 ## Ensemble of Convolutional Neural Networks to diagnose Acute Lymphoblastic Leukemia from microscopic images
 In our approach, online random oversampling is applied to rebalance the dataset. Furthermore, in this paper, we have experimented with the performance of the various pretrained networks for different resolutions of input images, something not found in other studies performed on this ALL dataset. Five different well-known networks are trained with the processed images to build an ensemble classifier as it ensures better performance in the other domain of medical image classifications. The pre-trained weights on the ImageNet dataset have been adopted for all the networks to utilize the transfer learning policy. In the end, those five trained weights are ensembled employing soft weighted aggregation to obtain the final prediction.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100263X)
 
