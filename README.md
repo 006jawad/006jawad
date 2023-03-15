@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, :wave:
-My name is Md Tasnim Jawad. I am an undergraduate student from Bangladesh finishing my final year at Khulna University of Engineering and Technology. I am also an up-and-coming deep learning researcher. So far I have worked mostly on medical images. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks. I have an obsession with AI and it drives me to learn more every day. I am a fast learner.  
+My name is Md Tasnim Jawad. I am a graduate student from Khulna University of Engineering and Technology, Bangladesh. I like to see myself as an up-and-coming deep learning researcher. So far I have worked mostly on medical images. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks. I have an obsession with AI and it drives me to learn more every day. I am a fast learner.  
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
 # My Work Experience:
