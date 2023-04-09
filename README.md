@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, :wave:
-My name is Md Tasnim Jawad. I am a graduate student from Khulna University of Engineering and Technology, Bangladesh. I have had the privilege to work in various deep learning-based research. So far I have worked mostly on medical images. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks. I have an obsession with AI and it drives me to learn more every day. I am a fast learner.  
+My name is Md Tasnim Jawad. I am a B.Sc. graduate of 2023, from Khulna University of Engineering and Technology, Bangladesh. During my undergraduate studies, I have had the privilege to work in various deep learning-based research. I conducted my own thesis on medical imaging using deep-learning-based neural networks, with a particular emphasis on their potential applications in clinical settings. Apart from computer vision, I am highly interested in reinforcement learning and generative AI. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks.
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ) 
 
-# My Work Experience:
+<!-- # My Work Experience:
 My Work Experience:
-Various online courses were my first introduction to Deep Learning. I have been learning and practicing new skills to combat various challenges. Various blogs and online platforms like Kaggle have also been useful in learning the basics. In my University, apart from being an undergrad, I have been working as a Research Assistant under the supervision of [Kamrul Hasan](https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en) for more than a year. A part of one of my incompleted project is highlighted below.
+Various online courses were my first introduction to Deep Learning. I have been learning and practicing new skills to combat various challenges. Various blogs and online platforms like Kaggle have also been useful in learning the basics. In my University, apart from being an undergrad, I have been working as a Research Assistant under the supervision of [Kamrul Hasan](https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en) for almost two years. A part of one of my incompleted project is highlighted below. -->
 
 
 ## Education:
@@ -40,9 +40,9 @@ Various online courses were my first introduction to Deep Learning. I have been 
 [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/032440a89d0a56813a7e3af3d3d98afc)
 
 ## Research Highlights:
-<!-- ## COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing
+## COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing
 This article aims to evaluate the proposed 3D-CNN classifier’s performance for identifying COVID-19 utilizing volumetric chest images, where the volumes have come from the same source. The recommended integral preprocessing in the proposed framework consists of segmentation, augmentations (both geometry- and intensity-based), and class rebalancing.  The experimental analysis confirms that the CNN classifier’s training with the suitable smaller patches and progressively increasing the network size enhance the identification results. Furthermore, incorporating the lung segmentation empowers the classifier to learn salient and characteristic COVID-19 features rather than utilizing whole chest CT images, driving improved COVID-19 classification performance.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100191X)
- -->
+
 ## Ensemble of Convolutional Neural Networks to diagnose Acute Lymphoblastic Leukemia from microscopic images
 In our approach, online random oversampling is applied to rebalance the dataset. Furthermore, in this paper, we have experimented with the performance of the various pretrained networks for different resolutions of input images, something not found in other studies performed on this ALL dataset. Five different well-known networks are trained with the processed images to build an ensemble classifier as it ensures better performance in the other domain of medical image classifications. The pre-trained weights on the ImageNet dataset have been adopted for all the networks to utilize the transfer learning policy. In the end, those five trained weights are ensembled employing soft weighted aggregation to obtain the final prediction.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100263X)
 
