@@ -31,9 +31,8 @@ Various online courses were my first introduction to Deep Learning. I have been 
 
 ## Education:
 
-#### Khulna University of Engineering and Technology
+#### Khulna University of Engineering and Technology (KUET)
 #### B.SC. in Department of Electrical and Electronic Engineering ( 2017-2023 )
-
 
 
 [Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)
