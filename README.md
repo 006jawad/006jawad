@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, :wave:
-My name is Md Tasnim Jawad. I am a B.Sc. graduate of 2023, from Khulna University of Engineering and Technology, Bangladesh. During my undergraduate studies, I have had the privilege to work in various deep learning-based research. I conducted my own thesis on medical imaging using deep-learning-based neural networks, with a particular emphasis on their potential applications in clinical settings. Besides computer vision, I am highly interested in reinforcement learning and generative AI. My primary tool for data processing is python and I am familiar with both Tensorflow and Pytorch frameworks.
+My name is Md Tasnim Jawad. I am a B.Sc. graduate of 2023, from Khulna University of Engineering and Technology, Bangladesh. During my undergraduate studies, I have had the privilege to work in various deep learning-based research. I conducted my own thesis on medical imaging using deep-learning-based neural networks, with a particular emphasis on their potential applications in clinical settings. Besides computer vision, I am highly interested in reinforcement learning and generative AI. Python serves as my primary tool for data processing and I am familiar with both Tensorflow and Pytorch frameworks.
 
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ)  :star:
 
