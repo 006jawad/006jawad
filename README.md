@@ -34,10 +34,11 @@ Various online courses were my first introduction to Deep Learning. I have been 
 #### Khulna University of Engineering and Technology (KUET)
 #### B.Sc. in Department of Electrical and Electronic Engineering ( 2017-2023 )
 
-
-[Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)
-
+[Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)<br>
 [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/032440a89d0a56813a7e3af3d3d98afc)
+
+## Undergraduate thesis
+In my thesis, I proposed a fully developed robust segmentation network called GSNet for the purpose of glioma segmentation. Unlike conventional 2-dimensional structures, GSNet directly deals with 3-dimensional (3D) data while utilizing attention-based skip links. The network is trained and validated using the BraTS 2020 dataset and further trained with BraTS 2019 and BraTS 2018 datasets for comparison. [Details](https://github.com/006jawad/GSNet_/tree/main)
 
 ## Project Highlights: :coffee:
 <details>
@@ -60,23 +61,28 @@ The web app is an implementation of my undergraduate thesis titled. It involves 
 
 ## Publication Highlights: :bulb:
 <details>
-<summary>COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing :paperclip:</summary>
-This article aims to evaluate the proposed 3D-CNN classifier’s performance for identifying COVID-19 utilizing volumetric chest images, where the volumes have come from the same source. The recommended integral preprocessing in the proposed framework consists of segmentation, augmentations (both geometry- and intensity-based), and class rebalancing. The experimental analysis confirms that the CNN classifier’s training with the suitable smaller patches and progressively increasing the network size enhance the identification results. Furthermore, incorporating the lung segmentation empowers the classifier to learn salient and characteristic COVID-19 features rather than utilizing whole chest CT images, driving improved COVID-19 classification performance.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100191X)
+<summary>GSNet: a multi-class 3D attention-based hybrid glioma segmentation network :paperclip:</summary>
+In this article, we proposed a fully developed robust segmentation network called GSNet for the purpose of glioma segmentation. Unlike conventional 2-dimensional structures, GSNet directly deals with 3-dimensional (3D) data while utilizing attention-based skip links. While utilizing the BraTS 2020 dataset, our 3D network achieved an overall dice similarity coefficient of 0.9239, 0.9103, and 0.8139, respectively for whole tumor, tumor core, and enhancing tumor classes. [Full paper](https://doi.org/10.1364/OE.499054)
 </details>
+
 <details>
-  
+<summary>COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing :paperclip:</summary>
+This article aims to evaluate the proposed 3D-CNN classifier’s performance for identifying COVID-19 utilizing volumetric chest images, where the volumes have come from the same source. The recommended integral preprocessing in the proposed framework consists of segmentation, augmentations (both geometry- and intensity-based), and class rebalancing. The experimental analysis confirms that the CNN classifier’s training with the suitable smaller patches and progressively increasing the network size enhance the identification results. Furthermore, incorporating the lung segmentation empowers the classifier to learn salient and characteristic COVID-19 features rather than utilizing whole chest CT images, driving improved COVID-19 classification performance. [Full paper](https://doi.org/10.1016/j.imu.2021.100709)
+</details>
+
+<details>
 <summary>Ensemble of Convolutional Neural Networks to diagnose Acute Lymphoblastic Leukemia from microscopic images :paperclip:</summary>
-In our approach, online random oversampling is applied to rebalance the dataset. Furthermore, in this paper, we have experimented with the performance of the various pretrained networks for different resolutions of input images, something not found in other studies performed on the dataset. Five different well-known networks are trained with the processed images to build an ensemble classifier as it ensures better performance in the other domain of medical image classifications. The pre-trained weights on the ImageNet dataset have been adopted for all the networks to utilize the transfer learning policy. In the end, those five trained weights are ensembled employing soft weighted aggregation to obtain the final prediction.[Full paper](https://www.sciencedirect.com/science/article/pii/S235291482100263X)
+In our approach, online random oversampling is applied to rebalance the dataset. Furthermore, in this paper, we have experimented with the performance of the various pretrained networks for different resolutions of input images, something not found in other studies performed on the dataset. Five different well-known networks are trained with the processed images to build an ensemble classifier as it ensures better performance in the other domain of medical image classifications. The pre-trained weights on the ImageNet dataset have been adopted for all the networks to utilize the transfer learning policy. In the end, those five trained weights are ensembled employing soft weighted aggregation to obtain the final prediction. [Full paper](https://doi.org/10.1016/j.imu.2021.100794)
 </details>
 
 <details>
 <summary>Breast Cancer Classification Using Ensemble of Machine Learning Boosting Algorithms :paperclip:</summary>
-Throughout this paper, an automated decision-making pipeline for Breast Cancer (BC) detection has been proposed, incorporating Machine Learning (ML) algorithms like Gaussian Naive Bayes (GNB), Random Forest (RF), XGBoost (XGB), AdaBoost (AdB), and preprocessing such as Outlier Rejection (OR) and Attribute Selection (AS). A weighted ensemble of ML models has been recommended in the introduced pipeline. The observed results conclude that a weighted ensemble of AdB and XGB in conjunction with OR and AS as the preprocessing steps can successfully enhance the BC detection outcomes with a significantly short execution time of 2.10 seconds.[Full paper](https://ieeexplore.ieee.org/document/9850750)
+Throughout this paper, an automated decision-making pipeline for Breast Cancer (BC) detection has been proposed, incorporating Machine Learning (ML) algorithms like Gaussian Naive Bayes (GNB), Random Forest (RF), XGBoost (XGB), AdaBoost (AdB), and preprocessing such as Outlier Rejection (OR) and Attribute Selection (AS). A weighted ensemble of ML models has been recommended in the introduced pipeline. The observed results conclude that a weighted ensemble of AdB and XGB in conjunction with OR and AS as the preprocessing steps can successfully enhance the BC detection outcomes with a significantly short execution time of 2.10 seconds. [Full paper](https://ieeexplore.ieee.org/document/9850750)
 </details>
 
 <details>
 <summary>Associating measles vaccine uptake classification and its underlying factors using an ensemble of machine learning models :paperclip:</summary>
-Missing values are imputed employing various approaches, and then several feature selection techniques have been applied to identify the crucial attributes for predicting measles vaccination. A grid search hyperparameter optimization technique has been applied for tuning the critical hyperparameters of different ML models, such as Naive Bayes, random forest, decision tree, XGboost, and lightgbm. The performance improved when the proposed weighted ensemble of the XGboost and lightgbm approach was adapted with the same preprocessing and recommended for measles vaccine utilization.[Full paper](https://ieeexplore.ieee.org/abstract/document/9524617)
+Missing values are imputed employing various approaches, and then several feature selection techniques have been applied to identify the crucial attributes for predicting measles vaccination. A grid search hyperparameter optimization technique has been applied for tuning the critical hyperparameters of different ML models, such as Naive Bayes, random forest, decision tree, XGboost, and lightgbm. The performance improved when the proposed weighted ensemble of the XGboost and lightgbm approach was adapted with the same preprocessing and recommended for measles vaccine utilization. [Full paper](https://ieeexplore.ieee.org/abstract/document/9524617)
 </details>
 
 
