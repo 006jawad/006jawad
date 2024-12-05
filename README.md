@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, :wave:
-My name is Md Tasnim Jawad. I am a B.Sc. graduate of 2023, from Khulna University of Engineering and Technology, Bangladesh. During my undergraduate studies, I have had the privilege to work in various deep learning-based research. I conducted my own thesis on medical imaging using deep-learning-based neural networks, with a particular emphasis on their potential applications in clinical settings. Besides computer vision, I am highly interested in reinforcement learning and generative AI. Python serves as my primary tool for data processing and I am familiar with both Tensorflow and Pytorch frameworks.
+My name is Md Tasnim Jawad. I am a Graduate Assistant pursuing a Ph.D. in Computer Science at Florida International University, Miami. I earned my B.Sc. degree in 2023 from Khulna University of Engineering and Technology, Bangladesh. During my undergraduate studies, I had the privilege of working on various deep learning-based research projects. My thesis focused on medical imaging using deep learning neural networks, with a particular emphasis on their potential applications in clinical settings.
+
+In addition to computer vision, I have a strong interest in large language models (LLMs) and generative AI. Python is my primary programming tool for data processing, and I am proficient in both TensorFlow and PyTorch frameworks.
 
 ## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=6VOwVbwAAAAJ)  :star:
 
@@ -28,14 +30,18 @@ My name is Md Tasnim Jawad. I am a B.Sc. graduate of 2023, from Khulna Universit
 My Work Experience:
 Various online courses were my first introduction to Deep Learning. I have been learning and practicing new skills to combat various challenges. Various blogs and online platforms like Kaggle have also been useful in learning the basics. In my University, apart from being an undergrad, I have been working as a Research Assistant under the supervision of [Kamrul Hasan](https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en) for almost two years. A part of one of my incompleted project is highlighted below. -->
 
-
 ## Education:
 
-#### Khulna University of Engineering and Technology (KUET)
-#### B.Sc. in Department of Electrical and Electronic Engineering ( 2017-2023 )
+- **Florida International University (FIU)**
+  - Ph.D. in Computer Science (2024–Ongoing)
 
+- **Khulna University of Engineering and Technology (KUET)**
+  - B.Sc. in Department of Electrical and Electronic Engineering (2017–2023)
+
+<!--
 [Deep Learning](https://coursera.org/share/11a46e0c1046b141e3d788b8e8b44478)<br>
 [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/032440a89d0a56813a7e3af3d3d98afc)
+-->
 
 ## Undergraduate thesis
 In my thesis, I proposed a fully developed robust segmentation network called GSNet for the purpose of glioma segmentation. Unlike conventional 2-dimensional structures, GSNet directly deals with 3-dimensional (3D) data while utilizing attention-based skip links. The network is trained and validated using the BraTS 2020 dataset and further trained with BraTS 2019 and BraTS 2018 datasets for comparison. [Details](https://github.com/006jawad/GSNet_/tree/main)
