@@ -53,16 +53,14 @@ EnsembleBench is a holistic framework for benchmarking ensemble methods. Contrib
 </details>
 
 <details>
-<summary>:rocket: "Volumetric brain tumor segmentation utilizing 3D CNN, Attention layers and, hybrid residual
-connections."</summary>
-This is an experimental part of a paper titled [GSNet: a multi-class 3D attention-based hybrid glioma segmentation network](https://doi.org/10.1364/OE.499054). The project explores the feasibility of using Deep Learning based Neural Networks to extract Glioma segments from brain MRIs. [Description](https://github.com/006jawad/GSNet_/tree/main/WebApp). (Material used: Python, HTML, CSS, JS)
+<summary>:rocket: "GSNet: a multi-class 3D attention-based hybrid glioma segmentation network."</summary>
+This is an experimental part of our [paper](https://doi.org/10.1364/OE.499054). The project explores the feasibility of using Deep Learning based Neural Networks to extract Glioma segments from brain MRIs. [Description](https://github.com/006jawad/GSNet_/tree/main/WebApp). (Material used: Python, HTML, CSS, JS)
 
 </details>
 
 <details>
-<summary>🌱 "Detection of Breast Cancer through a Web Application using Ensemble of machine learning
-algorithms on numerical data."</summary>
-This miniaturized web application is an implementation of our paper [Breast Cancer Classification Using Ensemble of Machine Learning Boosting Algorithms](https://ieeexplore.ieee.org/abstract/document/9524617). The automation of the Breast Cancer detection framework has been accomplished in this article. [Description](https://github.com/006jawad/Breast-Cancer-Classification). (Material used: Python (Streamlit))
+<summary>🌱 "Breast Cancer Classification Using Ensemble of Machine Learning Boosting Algorithms."</summary>
+This miniaturized web application is an implementation of our [paper](https://ieeexplore.ieee.org/abstract/document/9524617). The automation of the Breast Cancer detection framework has been accomplished in this article. [Description](https://github.com/006jawad/Breast-Cancer-Classification). (Material used: Python (Streamlit))
 
 </details>
 
