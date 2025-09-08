@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Md Tasnim Jawad</h1>
+<h1 align="center">Hi there 👋, I'm Jawad</h1>
 <p align="center">
   🎓 Ph.D. Student, Florida International University <br/>
   🤖 LLMs • Generative AI • Parameter-Efficient Fine-Tuning • LLM Agents <br/>
@@ -7,6 +7,12 @@
 
 ---
 
+### 📰 Updates
+
+- **Aug 4, 2025** – Paper accepted at *CIKM 2025*:  
+  **EFT-LR: Benchmarking Learning Rate Policies in Parameter-Efficient Large Language Model Fine-tuning** 🎉  
+
+---
 ### 🧑‍💻 About Me
 
 I’m currently a Graduate Assistant pursuing a Ph.D. in Computer Science at **Florida International University**, Miami. I completed my B.Sc. in EEE from **Khulna University of Engineering and Technology**, Bangladesh.
