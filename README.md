@@ -22,6 +22,14 @@ I have also previously worked with **deep learning for medical imaging**.
 
 ---
 
+### 💼 Work Experience
+
+- **Graduate Assistant**  
+  *Florida International University, Miami*  
+  Aug 2024 – Present  
+
+---
+
 ### 🎓 Education
 
 - **Ph.D. in Computer Science**  
